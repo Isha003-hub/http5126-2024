@@ -1,7 +1,5 @@
 # HTTP-5126 - Database Design and Development
 
-## Overview
-
 Welcome to the HTTP-5126 Database Design and Development repository! This collection contains all assignments, lab work, and practice files relevant to the course. It's designed to help you enhance your understanding of database concepts and SQL.
 
 <img src="./images/sql.jpg" width="180" height="150">
