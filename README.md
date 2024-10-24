@@ -11,9 +11,10 @@ Welcome to the HTTP-5126 Database Design and Development repository! This collec
 
 Here is a standard MySQL query structure that illustrates how to select data from a database:
 
-'''sql
+```sql
 SELECT column_name(s)
 FROM table_name
 WHERE condition
 GROUP BY column_name(s)
-ORDER BY column_name(s);'''
+ORDER BY column_name(s);
+```
